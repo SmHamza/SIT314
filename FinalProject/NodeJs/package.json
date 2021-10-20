@@ -1,0 +1,20 @@
+{
+  "name": "lighting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^2.1.0",
+    "mongoose": "^6.0.11",
+    "plotly": "^1.0.6",
+    "port": "^0.8.1",
+    "serial": "0.0.9",
+    "serialport": "^9.2.4",
+    "socket.io": "^4.3.1"
+  }
+}
